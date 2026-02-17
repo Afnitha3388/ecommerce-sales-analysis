@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales Performance Analysis 
+## 🛒 E-Commerce Sales Performance Analysis 
 
 ## 📊 Project Overview
 SQL analysis of TechHub electronics store sales data to identify customer patterns, 
